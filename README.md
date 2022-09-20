@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UmangSharma-TomTom
 - 👀 I’m interested in Deep Learning, Machine Learning, Primarily CV and NLP. 
-- 🌱 I’m currently learning Vision Transformers
+- 🌱 I’m currently building Vision Transformers
 - 💞️ I’m looking to collaborate on any interesting problem here at TTOM. 
 - 📫 How to reach me my TTOM Email. 
 
